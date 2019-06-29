@@ -1,0 +1,6 @@
+ImageDisplay, Pattern = 3, Path1 = res/sunflower.png, Path2 = res/blossom.png, Path3 = res/rose.png, Path4 = res/bouquet.png, myX = 550, myY = 50, myWidth = 200, myHeight = 200, flowerbed = 1
+ImageDisplay, Pattern = 22, Path1 = res/hibiscus.png, Path2 = res/rose.png, Path3 = res/bouquet.png, Path4 = res/tulip.png, myX = 300, myY = 300, myWidth = 200, myHeight = 200, flowerbed = 2
+ImageDisplay, Pattern = 3, Path1 = res/hibiscus.png, Path2 = res/rose.png, Path3 = res/bouquet.png, Path4 = res/tulip.png, myX = 550, myY = 300, myWidth = 200, myHeight = 200, flowerbed = 1
+ImageDisplay, Pattern = 21, Path1 = res/sunflower.png, Path2 = res/blossom.png, Path3 = res/cherry-blossom.png, Path4 = res/tulip.png, myX = 300, myY = 50, myWidth = 200, myHeight = 200, flowerbed = 1
+ImageDisplay, Pattern = 1, Path1 = res/tulip.png, Path2 = res/tulip.png, Path3 = res/tulip.png, Path4 = res/tulip.png, myX = 50, myY = 300, myWidth = 205, myHeight = 205, flowerbed = 1
+ImageDisplay, Pattern = 1, Path1 = res/bouquet.png, Path2 = res/bouquet.png, Path3 = res/bouquet.png, Path4 = res/bouquet.png, myX = 50, myY = 50, myWidth = 200, myHeight = 200, flowerbed = 1
